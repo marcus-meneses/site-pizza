@@ -1,0 +1,74 @@
+	<div id="fh5co-footer">
+		<div class="container">
+<div class="row">
+
+<div class="col-xs-12 col-sm-6 col-md-4 ">
+
+
+  NOSSOS <span>CONTATOS</span> <br>
+                       
+   <i class="zmdi zmdi-phone"></i> Telefone 
+                                    <p class="animated"> 3739-4763 | 3739-4733 </p>
+								  <p> Delivery de 3ª à Domingo a partir das 18:00 </p>
+                                    
+                        
+                                   <i class="zmdi zmdi-pin-drop"></i> Endereço 
+                                  <p> Rua Dom Henrique Mourão, 265 <br> Peri Peri - São Paulo/SP </p>
+                  
+                                   <i class="zmdi zmdi-email"></i> E-mail 
+                                  <p> pizzaria_tradicao@hotmail.com </p><br><br><br>
+                
+                       
+
+
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+
+
+ SIGA-<span>NOS</span><br>
+                        <div class="social-media-link">
+ 
+                                    <a href="https://www.facebook.com/pizzariatradicaobutanta" target="_blank">
+                                        <i class="zmdi zmdi-facebook-box zmdi-hc-3x"></i>
+                                    </a>
+                             
+                        </div> </br></br>
+						
+						     HORÁRIO de <span>ATENDIMENTO</span> 
+                            
+                                  <p> 3ª a 5º e Domingo das 18 às 23h <br>
+                                    6ª feira, Sábado e véspera de feriados ATÉ 0h </p>
+                         
+						
+
+
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+PEDIDOS ONLINE<br><br>
+área para links de pedido online	
+</div>
+
+</div>
+
+		</div>
+		<div class="container">
+			<div class="row row-padded">
+				<div class="col-md-12 text-center">
+					<p class="to-animate">&copy; 2017 Pizzaria Tradição. <br> Design &amp; Código por <a href="https://www.facebook.com/marcusvinicius.martinsmeneses" target="_blank">Marcus Meneses</a> <br> Velle est posse
+					</p>
+					<p class="text-center to-animate"><a href="#" class="js-gotop">Voltar para o topo</a></p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<ul class="fh5co-social">
+						<li class="to-animate-2"><a href="#"><i class="icon-facebook"></i></a></li>
+						<li class="to-animate-2"><a href="#"><i class="icon-twitter"></i></a></li>
+						<li class="to-animate-2"><a href="#"><i class="icon-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>

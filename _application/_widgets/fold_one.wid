@@ -1,0 +1,67 @@
+<div id="fh5co-home" class="js-fullheight" data-section="home">
+
+			<div class="flexslider">
+				
+				<div class="fh5co-overlay"></div>
+				<div class="fh5co-text">
+					<div class="container">
+						<div class="row">
+							<img src="<?php $this->imgFile( 'hugelogo.png' );?>" style="max-width:35%;" />
+							<h2 class="to-animate" style="margin-top:25px;">
+							<span style="margin-left:3%;margin-right:3%;" data-toggle="modal" data-target="#whatsappmodal">
+							<a href="#" class="unsel" >	<i class="zmdi zmdi-whatsapp zmdi-hc-3x"></i> </a>
+							</span> 
+								
+							<span style="margin-left:3%;margin-right:3%;" data-toggle="modal" data-target="#phonemodal">
+							<a href="#" class="unsel" >	<i class="zmdi zmdi-phone zmdi-hc-3x"></i> </a>
+							</span>  
+								
+							<span style="margin-left:3%;margin-right:3%;" data-toggle="modal" data-target="#mapsmodal">
+							<a href="#" class="unsel" >	<i class="zmdi zmdi-pin-drop zmdi-hc-3x"></i> </a>
+							</span> 
+							
+							</h2>
+							<h3 style="color:#fff;font-family: "Ufont", serif;margin-top:25px;">Delivery de Terça a Domingo, a partir das 18:00</h3>
+						</div>
+					</div>
+				</div>
+			  	<ul class="slides">
+			   	<li style="background-image: url(<?php $this->imgFile( 'slide_1.jpg' );?>);" data-stellar-background-ratio="0.5"></li>
+			   	<li style="background-image: url(<?php $this->imgFile( 'slide_2.jpg' );?>);" data-stellar-background-ratio="0.5"></li>
+			   	<li style="background-image: url(<?php $this->imgFile( 'slide_3.jpg' );?>);" data-stellar-background-ratio="0.5"></li>
+			  	</ul>
+
+			</div>
+			
+		</div>
+		
+		<div class="js-sticky">
+			<div class="fh5co-main-nav">
+				<div class="container-fluid">
+
+				   <!-- <div class="fh5co-menu-1">
+						<a href="#" data-nav-section="home">Home</a>
+						<a href="#" data-nav-section="about">Sobre</a>
+						
+					</div> -->
+
+					<div class="fh5co-logo">
+						<!--<a href="index.html">foodee</a>-->
+						<img src="<?php $this->imgFile( 'logo_flat.png' );?>" style="margin-top:6px;width:100%;" />
+					</div>
+					<div class="fh5co-menu-2">
+						<a href="#" data-nav-section="home">Home</a>
+						<a href="#" data-nav-section="about">Sobre</a>
+					    <a href="#" data-nav-section="features">Especiais</a>
+						<a href="#" data-nav-section="menu">Cardápio</a>
+ 
+						<span class="hidden-xs hidden-sm" style="color:#fff; font-weight:800;"><nobr>&nbsp;&nbsp;&nbsp;3739-4763&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 3739-4733</nobr></span>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+
+
+
+
